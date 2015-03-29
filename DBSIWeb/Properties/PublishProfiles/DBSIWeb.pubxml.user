@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\_Releases\DBSI\DBSIWeb</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/RadCaptcha/0.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/1.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/2.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/3.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/4.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/5.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/6.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/7.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/8.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/9.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/A.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/B.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/C.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/D.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/E.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/F.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/G.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/H.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/I.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/J.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/K.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/L.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/M.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/N.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/O.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/P.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Q.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/R.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/S.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/T.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/U.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/V.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/W.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/X.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Y.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Z.wav">
+      <publishTime>02/25/2014 16:10:10</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/de-DE.tdf">
+      <publishTime>02/25/2014 16:13:12</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/en-US.tdf">
+      <publishTime>02/25/2014 16:13:12</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/fr-FR.tdf">
+      <publishTime>02/25/2014 16:13:12</publishTime>
+    </File>
+    <File Include="BGL.aspx">
+      <publishTime>03/18/2014 15:15:59</publishTime>
+    </File>
+    <File Include="bin/DBSIWeb.dll">
+      <publishTime>04/29/2014 15:16:06</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>02/24/2014 16:34:20</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.Skins.dll">
+      <publishTime>02/24/2014 16:34:20</publishTime>
+    </File>
+    <File Include="ContactForm.aspx">
+      <publishTime>03/18/2014 15:41:43</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>03/26/2014 14:57:13</publishTime>
+    </File>
+    <File Include="Docs.aspx">
+      <publishTime>03/18/2014 15:37:40</publishTime>
+    </File>
+    <File Include="FAQ.aspx">
+      <publishTime>04/29/2014 15:16:26</publishTime>
+    </File>
+    <File Include="FAQDetails.aspx">
+      <publishTime>04/29/2014 11:50:47</publishTime>
+    </File>
+    <File Include="Forms.aspx">
+      <publishTime>03/18/2014 15:53:52</publishTime>
+    </File>
+    <File Include="Images/background.gif">
+      <publishTime>03/18/2014 16:41:15</publishTime>
+    </File>
+    <File Include="Images/bannre_1.gif">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/Contact.gif">
+      <publishTime>02/10/2011 17:32:22</publishTime>
+    </File>
+    <File Include="Images/contactlogo.gif">
+      <publishTime>03/18/2014 14:21:55</publishTime>
+    </File>
+    <File Include="Images/doc.gif">
+      <publishTime>03/18/2014 14:06:23</publishTime>
+    </File>
+    <File Include="Images/faq.gif">
+      <publishTime>03/18/2014 13:56:50</publishTime>
+    </File>
+    <File Include="Images/fbg_1.gif">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/form.gif">
+      <publishTime>03/18/2014 14:02:49</publishTime>
+    </File>
+    <File Include="Images/header_bg.gif">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/header_text_bg.gif">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/header_text_img.jpg">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/header_text_ul_li.gif">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/img_1.jpg">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/lean_more.gif">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/logo.gif">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/logoimage.gif">
+      <publishTime>03/18/2014 13:03:29</publishTime>
+    </File>
+    <File Include="Images/menu_bg.gif">
+      <publishTime>02/11/2011 15:08:34</publishTime>
+    </File>
+    <File Include="Images/pdficon.gif">
+      <publishTime>02/12/2011 11:07:30</publishTime>
+    </File>
+    <File Include="Images/reading.gif">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/search.gif">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/ta-mark.png">
+      <publishTime>01/21/2011 11:25:12</publishTime>
+    </File>
+    <File Include="Images/tax.gif">
+      <publishTime>03/18/2014 13:57:26</publishTime>
+    </File>
+    <File Include="Images/text_bg.gif">
+      <publishTime>01/21/2011 11:25:13</publishTime>
+    </File>
+    <File Include="Images/ul_li.gif">
+      <publishTime>01/21/2011 11:25:13</publishTime>
+    </File>
+    <File Include="Images/welcome.gif">
+      <publishTime>03/18/2014 13:45:47</publishTime>
+    </File>
+    <File Include="M1/M1.Master">
+      <publishTime>04/29/2014 11:11:29</publishTime>
+    </File>
+    <File Include="Main.aspx">
+      <publishTime>03/26/2014 14:41:53</publishTime>
+    </File>
+    <File Include="PrivacyStatement.aspx">
+      <publishTime>03/18/2014 08:47:46</publishTime>
+    </File>
+    <File Include="S1/S1.css">
+      <publishTime>04/29/2014 14:24:25</publishTime>
+    </File>
+    <File Include="Tax.aspx">
+      <publishTime>03/18/2014 12:49:34</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>03/18/2014 17:06:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
