@@ -55,7 +55,7 @@
                         <img src="images/pdficon.gif" alt="" />
                     </td>
                     <td>
-                        <a href="Documents/BLG.pdf" class="A3" target="_blank">Communication regarding DBSI Liquidating Trust Beneficiary Grantor Letters for 2014 Tax Year</a>
+                        <a href="Documents/GELB.pdf" class="A3" target="_blank">Communication regarding DBSI Liquidating Trust Beneficiary Grantor Letters for 2014 Tax Year</a>
                     </td>
                 </tr>
                 <tr>
@@ -63,7 +63,7 @@
                         <img src="images/pdficon.gif" alt="" />
                     </td>
                     <td>
-                        <a href="Documents/RETL.pdf" class="A3" target="_blank">Communication regarding DBSI Real Estate Liquidating Trust Beneficiary Grantor Letters for 2014 Tax Year</a>
+                        <a href="Documents/GELB.pdf" class="A3" target="_blank">Communication regarding DBSI Real Estate Liquidating Trust Beneficiary Grantor Letters for 2014 Tax Year</a>
                     </td>
                 </tr>
             </table>

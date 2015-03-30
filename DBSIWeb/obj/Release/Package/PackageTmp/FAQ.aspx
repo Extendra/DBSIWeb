@@ -8,7 +8,7 @@
         </td>
         <td style="width:10px; background-color: #f0f1f2;"></td>
         <td style="background-color: #f0f1f2;">
-            <table style="width:100%">
+            <table style="width:100%; ">
                 <tr>
                     <td>
                         <asp:Label ID="Label2" Font-Size="25px" Font-Bold="true" ForeColor="Black" runat="server" Text="Frequently Asked Questions [FAQ]"></asp:Label>
@@ -51,7 +51,7 @@
                             <asp:Repeater ID="rptQuest" OnItemCommand="rptSec_ItemCommand" DataSourceID="sqlFAQ" runat="server">
                             <ItemTemplate>
                             <tr>
-                                <td style="text-align:right; width:20px">
+                                <td style="text-align:right; width:20px; vertical-align:top;">
                                     <asp:Label ID="Label1" Visible="true" CssClass="A3" runat="server" Text='<%# DataBinder.Eval(Container.DataItem, "FAQOrd") + "." %>'></asp:Label>
                                     <%--<asp:LinkButton CssClass="A3" ID="lbtnExpand" CommandName="Exp" runat="server">[+]</asp:LinkButton>
                                     <asp:LinkButton CssClass="A3" ID="lbtnCol" CommandName="Col" Visible="false" runat="server">[-]</asp:LinkButton>--%>

@@ -1,0 +1,8 @@
+D:\_CodeProjects\DBSI\DBSIWeb\DBSIWeb\WebUpdates\bin\WebUpdates.dll
+D:\_CodeProjects\DBSI\DBSIWeb\DBSIWeb\WebUpdates\bin\WebUpdates.pdb
+D:\_CodeProjects\DBSI\DBSIWeb\DBSIWeb\WebUpdates\bin\Telerik.Web.UI.dll
+D:\_CodeProjects\DBSI\DBSIWeb\DBSIWeb\WebUpdates\bin\Telerik.Web.UI.Skins.dll
+D:\_CodeProjects\DBSI\DBSIWeb\DBSIWeb\WebUpdates\bin\Telerik.Web.UI.xml
+D:\_CodeProjects\DBSI\DBSIWeb\DBSIWeb\WebUpdates\obj\Debug\WebUpdates.csprojResolveAssemblyReference.cache
+D:\_CodeProjects\DBSI\DBSIWeb\DBSIWeb\WebUpdates\obj\Debug\WebUpdates.dll
+D:\_CodeProjects\DBSI\DBSIWeb\DBSIWeb\WebUpdates\obj\Debug\WebUpdates.pdb

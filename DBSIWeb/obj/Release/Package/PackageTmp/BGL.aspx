@@ -31,7 +31,7 @@
     <tr><td colspan="3" style="height:5px"></td></tr>
     <tr>
         <td colspan="3" style="padding: 10px">
-            <asp:Label ID="Label2" runat="server" Text="Letters:" CssClass="lbl2"></asp:Label> 
+            <asp:Label ID="Label2" runat="server" Text="Grantor Letters for 2014 Tax Year:" CssClass="lbl2"></asp:Label> 
         </td>
     </tr>
     <tr><td colspan="3" style="height:5px"></td></tr>
@@ -40,6 +40,8 @@
             <asp:Label ID="Label3" CssClass="lbl1" runat="server">
             <div style="text-align: justify">
                 <p>The following are copies of the most recent communications regarding grantor tax letters issued by the DBSI Liquidating Trusts.</p>
+                <p>The Grantor Letters for the DBSI Real Estate Liquidating Trust will be mailed by the first week of April.</p>
+                <p>Please see the letter regarding 2014 income tax reporting for the DBSI Liquidating Trust, which will be putting its 2014 income tax return on extension until September 15, 2015.</p>
             </div>
             </asp:Label>
         </td>
@@ -53,7 +55,7 @@
                         <img src="images/pdficon.gif" alt="" />
                     </td>
                     <td>
-                        <a href="Documents/BLG.pdf" class="A3" target="_blank">Communication regarding 2012 DBSI Liquidating Trust Beneficiary Grantor Tax Letter</a>
+                        <a href="Documents/GELB.pdf" class="A3" target="_blank">Communication regarding DBSI Liquidating Trust Beneficiary Grantor Letters for 2014 Tax Year</a>
                     </td>
                 </tr>
                 <tr>
@@ -61,7 +63,7 @@
                         <img src="images/pdficon.gif" alt="" />
                     </td>
                     <td>
-                        <a href="Documents/RETL.pdf" class="A3" target="_blank">Communication regarding 2012 DBSI Real Estate Liquidating Trust Beneficiary Grantor Tax Letter</a>
+                        <a href="Documents/GELB.pdf" class="A3" target="_blank">Communication regarding DBSI Real Estate Liquidating Trust Beneficiary Grantor Letters for 2014 Tax Year</a>
                     </td>
                 </tr>
             </table>
