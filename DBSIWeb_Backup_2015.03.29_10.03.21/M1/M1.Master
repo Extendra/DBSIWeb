@@ -1,0 +1,119 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="M1.master.cs" Inherits="DBSIWeb.M1.M1" %>
+
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>DBSI Liquidating Trusts</title>
+    <link href="../S1/S1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+    <telerik:RadScriptManager ID="RadScriptManager3" Runat="server"></telerik:RadScriptManager>
+    
+    <table border="0" style="width:100%; height:100%; padding: 0px; margin: 0px; border-spacing: 0px;">
+        <tr>
+            <td style="background-color:#3ac1ff; height:100px; vertical-align:top">
+                <table border="0" style="padding: 0px; margin: auto; width:1024px; border-spacing: 0px;">
+                    <tr>
+                        <td style="text-align:left;">
+                            <asp:Image ID="Image1" ImageUrl="~/Images/logoimage.gif" runat="server" />
+                        </td>
+                        <td style="vertical-align:middle; width:400px">
+                            <asp:Label CssClass="Heading1" ID="Label1" runat="server" Text="DBSI "></asp:Label>
+                            <asp:Label CssClass="Heading2" ID="Label2" runat="server" Text="Liquidating Trusts"></asp:Label>
+                        </td>
+                        <td style="text-align:right; vertical-align:top; width:650px">
+                            <table style="width:100%">
+                                <tr>
+                                    <td style="text-align:right; vertical-align:middle">
+                                       <a href='ContactForm.aspx' target="radWContact" onclick="window.radopen(null, 'radWContact');"><img src="images/Contact.gif" alt="click here to submit a request" border="0" /></a>      
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align:right">
+                                        <asp:Label CssClass="PhoneNumber" ID="Label4" runat="server" Text="Toll Free: 866.441.3377"></asp:Label>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="height:25px; background-color:#0096db;">
+                <table style="width:660px; background-color:#0096db; margin:auto; border-spacing: 0px; padding: 0px;">
+                    <tr>
+                        <td style="border-width: thin; border-color: #C0C0C0; vertical-align:middle; text-align:center; border-right-style: solid;">
+                            <asp:LinkButton ID="lbtnMain" CssClass="A2" runat="server" Width="110px" Height="25px" OnClick="lbtnMain_Click" PostBackUrl="~/Main.aspx">
+                                <asp:Label ID="Label6" runat="server" Font-Size="12pt" Font-Bold="true" Text="Main"></asp:Label>
+                            </asp:LinkButton>
+                        </td>
+                        <td style="vertical-align:middle; text-align:center; border-color: #C0C0C0; border-right-style: solid; border-width: thin;">
+                            <asp:LinkButton ID="lbtnBackground" CssClass="A2" runat="server" Width="110px" Height="25px" OnClick="lbtnBackground_Click"  PostBackUrl="~/Default.aspx" ToolTip="Background information on the trusts.">
+                                <asp:Label ID="Label5" runat="server" Font-Size="12pt" Font-Bold="true" Text="Background"></asp:Label>
+                            </asp:LinkButton>
+                        </td>
+                        <td style="vertical-align:middle; text-align:center; border-color: #C0C0C0; border-right-style: solid; border-width: thin;">
+                            <asp:LinkButton ID="lbtnFAQ" CssClass="A2" runat="server" Width="110px" Height="25px" OnClick="lbtnFAQ_Click" PostBackUrl="~/FAQ.aspx">
+                                <asp:Label ID="Label7" runat="server" Font-Size="12pt" Font-Bold="true" Text="FAQ"></asp:Label>
+                            </asp:LinkButton>
+                        </td>
+                        <td style="vertical-align:middle; text-align:center; border-color: #C0C0C0; border-right-style: solid; border-width: thin;">
+                            <asp:LinkButton ID="lbtnTax" CssClass="A2" runat="server" Width="110px" Height="25px" OnClick="lbtnTax_Click" PostBackUrl="~/BGL.aspx">
+                                <asp:Label ID="Label8" runat="server" Font-Size="12pt" Font-Bold="true" Text="Tax"></asp:Label>
+                            </asp:LinkButton>
+                        </td>
+                        <td style="vertical-align:middle; text-align:center; border-color: #C0C0C0; border-right-style: solid; border-width: thin;">
+                            <asp:LinkButton ID="lbtnForms" CssClass="A2" runat="server" Width="110px" Height="25px" OnClick="lbtnForms_Click" PostBackUrl="~/Forms.aspx">
+                                <asp:Label ID="Label9" runat="server" Font-Size="12pt" Font-Bold="true" Text="Forms"></asp:Label>
+                            </asp:LinkButton>
+                        </td>
+                        <td style="vertical-align:middle; text-align:center" >
+                            <asp:LinkButton ID="lbtnDocs" CssClass="A2" runat="server" Width="110px" Height="25px" OnClick="lbtnDocs_Click" PostBackUrl="~/Docs.aspx">
+                                <asp:Label ID="Label10" runat="server" Font-Size="12pt" Font-Bold="true" Text="Docs"></asp:Label>
+                            </asp:LinkButton>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align:top; background-color: #f0f1f2; border-top-style: solid; border-width: thin; border-color: #0096DE">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <%--<tr>
+            <td bgcolor="#f0f1f2" align="center">
+                
+            </td>
+        </tr>--%>
+        <tr>
+            <td style="height:20px; background-color:gray;">
+                <table style="width:1024px; margin:auto;">
+                    <tr>
+                        <td style="text-align:center">
+                            <a class="A2" href='PrivacyStatement.aspx' target="radWPrivacy" onclick="window.radopen(null, 'radWPrivacy');">Privacy Policy</a>
+                            <asp:Label ID="Label3" CssClass="lbl3" runat="server" Text="| © DBSI Liquidating Trusts 2011. All Rights Reserved."></asp:Label>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    
+    <telerik:RadWindowManager ID="radWManager" runat="server">
+        <Windows>
+           <telerik:RadWindow ID="radWContact" Width="600px" Height="750px" KeepInScreenBounds="true" EnableShadow="true" runat="server"></telerik:RadWindow>
+           <telerik:RadWindow ID="radWPrivacy" Width="600px" Height="600px" KeepInScreenBounds="true" EnableShadow="true" runat="server"></telerik:RadWindow> 
+           <telerik:RadWindow ID="radWFAQ" Width="800px" Height="600px" KeepInScreenBounds="true" EnableShadow="true" runat="server"></telerik:RadWindow> 
+       </Windows>   
+    </telerik:RadWindowManager>
+    
+    </form>
+</body>
+</html>

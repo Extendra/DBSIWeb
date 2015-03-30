@@ -1,0 +1,122 @@
+﻿html,body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	padding:0px; 
+	height:100%; 
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+}
+.A2
+{
+	TEXT-DECORATION: none; 
+	outline: none; 
+	FONT-SIZE: 12px; 
+	COLOR: #ffffff;
+}
+.A2:hover
+{
+	color:#ffffff;
+    background-color:silver;
+}
+.A3
+{
+	TEXT-DECORATION: none; 
+	outline: none; 
+	FONT-SIZE: 12px; 
+	COLOR: Maroon;
+	font-weight:bold;
+}
+.A3:hover
+{
+	TEXT-DECORATION: underline;
+	COLOR: Maroon;
+}
+.A4
+{
+	TEXT-DECORATION: none; 
+	outline: none; 
+	FONT-SIZE: 12px; 
+	COLOR: Maroon;
+	font-weight:bold;
+}
+.AFAQ
+{
+	TEXT-DECORATION: none; 
+	outline: none; 
+	FONT-SIZE: 15px; 
+	COLOR: #000000;
+}
+.AFAQ:hover
+{
+	color:#000000;
+    background-color:silver;
+}
+.lbl1
+{
+	FONT-SIZE: 15px;
+}
+.lbl2
+{
+	FONT-SIZE: 15px;
+	font-weight:bold;
+}
+.lbl3
+{
+	FONT-SIZE: 12px;
+	color:White;
+}
+.Menu 
+{
+	TEXT-DECORATION: none; 
+	outline: none; 
+	FONT-SIZE: 14px; 
+	COLOR: #ffffff;
+	font-weight:bold;
+}
+.Menu:hover 
+{
+	TEXT-DECORATION: underline;
+	color:#ffffff;
+}
+.Heading1
+{
+	FONT-SIZE: 30px;
+	color:White;
+	font-weight:bold;
+}
+.Heading2
+{
+	FONT-SIZE: 30px;
+	color:White;
+}
+.PhoneNumber
+{
+	FONT-SIZE: 20px;
+	color:White;
+	font-weight:bold;
+}
+.PageHead
+{
+	FONT-SIZE: 20px;
+	color:Black;
+	font-weight:bold;
+}
+.FAQSec
+{
+	FONT-SIZE: 15px;
+	color:Black;
+	font-weight:bold;
+}
+.FAQQue
+{
+	FONT-SIZE: 12px;
+	color:Black;
+	font-weight:bold;
+}
+.FAQAns
+{
+	FONT-SIZE: 12px;
+	color:Black;
+}
